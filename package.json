@@ -1,0 +1,19 @@
+{
+  "name": "ecssy",
+  "version": "0.0.1",
+  "description": "Css framework that compiles custom variables to regular css",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheFlyingWhale/ecssy.git"
+  },
+  "author": "Ole Walberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheFlyingWhale/ecssy/issues"
+  },
+  "homepage": "https://github.com/TheFlyingWhale/ecssy#readme"
+}
